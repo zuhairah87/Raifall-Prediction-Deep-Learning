@@ -2,4 +2,6 @@
 The issue being investigated is the prediction of the next day of the rainfall amount
 With this, it will beneficial for a flood monitoring system in flood-prone areas in our case is in Kuantan, Pahang. 
 This city near to the Kuantan river basin and vulnerable to flood experience. 
-Four deep learning models MLP, LSTM, Stacked LSTM and hybrid CNN-LSTM will be developed and evaluated using the rainfall dataset.
+Four deep learning models MLP, LSTM, Stacked LSTM and hybrid CNN-LSTM will be developed and evaluated using the rainfall daataset.
+The dataset are univariate time series dataset
+
